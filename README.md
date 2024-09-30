@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my knowledge of website design and development<br>👯 I’m looking to collaborate on a group project involving databases and UI/UX<br>🌱 I’m currently learning advanced C++, system design and web frameworks <br>💬Self-teaching Python to myself through project-based learning as shown by the respective repositories <br>Ask me about my workout split and music playlists<br>
+🔭 I’m currently working on improving my knowledge of website design and development<br>👯 I’m looking to collaborate on a group project involving databases and UI/UX<br>🌱 I’m currently learning advanced C++, system design and web frameworks <br>💬Self-teaching Python to myself through project-based learning as shown by the respective repositories <br>
 
 
 ## 🌐 Socials:
