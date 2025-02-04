@@ -35,6 +35,5 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) 
 
 
-[![](https://visitcount.itsvg.in/api?id=Poxxon&icon=8&color=11)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=poxxon&icon=0&color=1)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
