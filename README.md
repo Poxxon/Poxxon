@@ -14,15 +14,6 @@ I'm a passionate software developer with a strong foundation in full-stack devel
 
 ---
 
-## 💻 Technical Expertise  
-**Languages:** C/C++, Python, JavaScript, TypeScript, SQL  
-**Frontend:** React, Next.js, Tailwind CSS, HTML/CSS, Responsive Design  
-**Backend:** Node.js, FastAPI, Express.js, MongoDB, MySQL, PL/SQL  
-**Tools & Platforms:** Git, GitHub, Docker, Figma, CI/CD, Render, VS Code  
-**Methodologies:** Agile, TDD, SDLC, System Design, API-first development
-
----
-
 ## 🚀 Featured Projects
 
 ### 🔹 AI Job Compatibility Analyzer  
@@ -73,12 +64,6 @@ I'm open to collaborations, co-op opportunities, and all things tech and AI! Fee
 > *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
 
 ---
-
-
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pouya-rad/) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
