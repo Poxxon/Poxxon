@@ -1,8 +1,80 @@
-# 💫 About Me:
-🔭 I’m currently working on improving my knowledge of website design and software development<br>
-👯 I’m looking to collaborate on a group project involving databases and UI/UX<br>
-🌱 I’m currently learning advanced C++, system design and web frameworks <br>
-💬 Self-teaching Python to myself through project-based learning as shown by the respective repositories<br>
+# 👋 Pouya Rad  
+**Software Developer | Full Stack Engineer | AI Enthusiast**
+
+## 🧠 About Me  
+I'm a passionate software developer with a strong foundation in full-stack development, AI integration, and system design. I enjoy building intuitive applications that solve real-world problems, especially those that support innovation, efficiency, or public service. I'm currently studying **Computer Programming and Analysis (Co-op)** at **Seneca Polytechnic**, where I’m constantly pushing myself to learn and build.
+
+---
+
+## 🔭 Current Focus  
+- Developing AI-powered solutions to improve job compatibility and hiring outcomes  
+- Exploring scalable backend architectures and API development  
+- Seeking co-op or internship roles in public service tech, civic tech, or enterprise systems  
+- Continuing to sharpen my skills in system design, AI, and DevOps
+
+---
+
+## 💻 Technical Expertise  
+**Languages:** C/C++, Python, JavaScript, TypeScript, SQL  
+**Frontend:** React, Next.js, Tailwind CSS, HTML/CSS, Responsive Design  
+**Backend:** Node.js, FastAPI, Express.js, MongoDB, MySQL, PL/SQL  
+**Tools & Platforms:** Git, GitHub, Docker, Figma, CI/CD, Render, VS Code  
+**Methodologies:** Agile, TDD, SDLC, System Design, API-first development
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 AI Job Compatibility Analyzer  
+A full-stack AI-powered platform that helps users assess their resume against job descriptions.  
+- GPT-4 powered resume parsing and job matching  
+- Skill gap analysis with personalized feedback  
+- Tiered user system with JWT-based authentication  
+- Tech Stack: **Next.js**, **Tailwind CSS**, **FastAPI**, **MongoDB**, **OpenAI GPT-4**
+
+### 🔹 Web Item Store & Admin Dashboard  
+Built a full-stack CRUD-enabled e-commerce platform.  
+- Admin dashboard for managing store items and media uploads  
+- Dynamic filtering, image upload via **neon.tech**  
+- Authentication and session management  
+- Tech Stack: **Node.js**, **Express.js**, **Handlebars**, **MongoDB**
+
+### 🔹 City Delivery Route Planner (C Project)  
+A delivery optimization system built in C using algorithmic logic.  
+- A* algorithm for route finding with obstacle avoidance  
+- Distance and capacity-based truck assignment  
+- CLI-based route display with optimized logic  
+- Tech Stack: **C**, **Data Structures**, **A\* Search**, **Git**
+
+### 🔹 ML Projects – Jupyter & Scikit-Learn  
+Built and trained machine learning models for predictive analytics.  
+- House Price Prediction using Linear Regression  
+- Used Car Price Prediction with Decision Trees and Random Forest  
+- Feature engineering and hyperparameter tuning  
+- Tech Stack: **Python**, **Pandas**, **Scikit-Learn**, **Jupyter Notebook**
+
+---
+
+## 🌱 Continuous Learning  
+- Mastering scalable backend architecture and design patterns  
+- Deepening knowledge in AI/ML and real-world model deployment  
+- Gaining more experience in containerization and CI/CD workflows  
+- Exploring ethical tech and civic applications of AI
+
+---
+
+## 🤝 Let's Connect  
+I'm open to collaborations, co-op opportunities, and all things tech and AI! Feel free to reach out:
+
+[🔗 LinkedIn](https://www.linkedin.com/in/pouya-rad/)  
+[💼 GitHub](https://github.com/Poxxon)  
+📫 Email: pouyarad15@gmail.com | prad@myseneca.ca  
+
+> *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+
+---
+
+
 
 
 ## 🌐 Socials:
