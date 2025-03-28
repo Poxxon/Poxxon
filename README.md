@@ -18,6 +18,7 @@ I'm a passionate software developer with a strong foundation in full-stack devel
 
 ### 🔹 AI Job Compatibility Analyzer  
 A full-stack AI-powered platform that helps users assess their resume against job descriptions.  
+- [Visit the Website](https://nexom-ai-poxxons-projects.vercel.app/login)
 - GPT-4 powered resume parsing and job matching  
 - Skill gap analysis with personalized feedback  
 - Tiered user system with JWT-based authentication  
