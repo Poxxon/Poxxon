@@ -1,97 +1,86 @@
-# 👋 Pouya Rad  
-**Software Developer | Full Stack Engineer | AI Enthusiast**
+<h1 align="center">Hi, I'm Pouya 👋</h1>
 
-## 🧠 About Me  
-I'm a passionate software developer with a strong foundation in full-stack development, AI integration, and system design. I enjoy building intuitive applications that solve real-world problems, especially those that support innovation, efficiency, or public service. I'm currently studying **Computer Programming and Analysis (Co-op)** at **Seneca Polytechnic**, where I’m constantly pushing myself to learn and build.
+<p align="center">
+  <a href="https://github.com/Poxxon">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=2F6F8F&center=true&vCenter=true&width=620&lines=Software+Developer;Full-Stack+%7C+Cloud+%7C+AI;Seneca+CPA+Graduate+(Honours)" alt="Software Developer, Full-Stack, Cloud and AI" />
+  </a>
+</p>
 
----
-
-## 🔭 Current Focus  
-- Developing AI-powered solutions to improve job compatibility and hiring outcomes  
-- Exploring scalable backend architectures and API development  
-- Seeking co-op or internship roles in public service tech, civic tech, or enterprise systems  
-- Continuing to sharpen my skills in system design, AI, and DevOps
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 AI Job Compatibility Analyzer  
-A full-stack AI-powered platform that helps users assess their resume against job descriptions.  
-- [Visit the Website](https://nexom-ai-poxxons-projects.vercel.app/login)
-- GPT-4 powered resume parsing and job matching  
-- Skill gap analysis with personalized feedback  
-- Tiered user system with JWT-based authentication  
-- Tech Stack: **Next.js**, **Tailwind CSS**, **FastAPI**, **MongoDB**, **OpenAI GPT-4**
-
-### 🔹 Web Item Store & Admin Dashboard  
-Built a full-stack CRUD-enabled e-commerce platform.  
-- Admin dashboard for managing store items and media uploads  
-- Dynamic filtering, image upload via **neon.tech**  
-- Authentication and session management  
-- Tech Stack: **Node.js**, **Express.js**, **Handlebars**, **MongoDB**
-
-### 🔹 City Delivery Route Planner (C Project)  
-A delivery optimization system built in C using algorithmic logic.  
-- A* algorithm for route finding with obstacle avoidance  
-- Distance and capacity-based truck assignment  
-- CLI-based route display with optimized logic  
-- Tech Stack: **C**, **Data Structures**, **A\* Search**, **Git**
-
-### 🔹 ML Projects – Jupyter & Scikit-Learn  
-Built and trained machine learning models for predictive analytics.  
-- House Price Prediction using Linear Regression  
-- Used Car Price Prediction with Decision Trees and Random Forest  
-- Feature engineering and hyperparameter tuning  
-- Tech Stack: **Python**, **Pandas**, **Scikit-Learn**, **Jupyter Notebook**
+<p align="center">
+  <a href="https://www.linkedin.com/in/pouya-rad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:pouyarad15@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://homezonemarketing.com"><img src="https://img.shields.io/badge/HomeZone_Marketing-14263D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="HomeZone Marketing" /></a>
+</p>
 
 ---
 
-## 🌱 Continuous Learning  
-- Mastering scalable backend architecture and design patterns  
-- Deepening knowledge in AI/ML and real-world model deployment  
-- Gaining more experience in containerization and CI/CD workflows  
-- Exploring ethical tech and civic applications of AI
+### About me
+
+I'm a software developer in the Toronto area and a Seneca Polytechnic Computer Programming and Analysis graduate (Honours, 2025). I like building things people actually use, and I've spent the last couple of years doing it on both sides of the table: writing the code, and selling and supporting the product with real clients.
+
+- 🔨 Running **HomeZone Marketing**, where I build and grow websites for small businesses
+- 🌐 Built and launched [northamericaglazing.com](https://www.northamericaglazing.com): **29x** more Google search impressions within three months, all organic
+- 🤖 Working with AI tools every day, from LLM-powered features to AI-assisted development
+- 💬 Ask me about Next.js, AI integrations, or turning a cold call into a closed deal
 
 ---
 
-## 🤝 Let's Connect  
-I'm open to collaborations, co-op opportunities, and all things tech and AI! Feel free to reach out:
+### Featured work
 
-[🔗 LinkedIn](https://www.linkedin.com/in/pouya-rad/)  
-[💼 GitHub](https://github.com/Poxxon)  
-📫 Email: pouyarad15@gmail.com | prad@myseneca.ca  
+**🌐 [North America Glazing website](https://www.northamericaglazing.com)** · *Next.js, React, TypeScript, Tailwind, Vercel, Claude API*
+A production site for a glass manufacturer: product pages, a technical blog, HubSpot-connected quote forms, and an AI chat assistant that captures leads. Migrated off Squarespace with redirects for every old page.
 
-> *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+**🎯 [Ayandia](https://ayandia.com)** · *Next.js, FastAPI, MongoDB, OpenAI*
+AI job matching platform that scores a resume against live job postings and highlights skill gaps. JWT auth, paid tiers, and client-side caching that cut API usage by 60 to 80%.
+
+**🚗 [Self-Driving Car Model](https://github.com/Poxxon/CVI-Final-project)** · *Python, TensorFlow, OpenCV, Flask*
+A CNN trained on simulator camera data that steers a car around the track on its own, running in a real-time inference loop with a speed controller.
+
+**🗺️ City Delivery Route Planner** · *C, A\* search*
+Plans delivery routes around obstacles with A\* and assigns trucks by distance and capacity.
+
+**📈 [Price Prediction Models](https://github.com/Poxxon/Basic-Machine-Learning-Models)** · *Python, Scikit-learn, Jupyter*
+Regression, decision tree and random forest models for house and used-car prices.
 
 ---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) 
+### Tech stack
 
+**Languages**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-[![](https://visitcount.itsvg.in/api?id=poxxon&icon=0&color=1)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Frameworks**
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Data & AI**
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**Cloud & Tools**
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
